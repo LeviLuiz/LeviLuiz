@@ -15,10 +15,3 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
-
----
-
-### ⚠️ Observação sobre "Top Languages"
-O gráfico de “Top Languages” só mostra linguagens que têm **código significativo** nos seus repositórios.  
-- Se você tiver pouco PHP, ele pode não aparecer.  
-- Para destacar PHP, adicione mais arquivos `.php` ou crie um repositório dedicado.  
